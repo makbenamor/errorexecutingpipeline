@@ -1,0 +1,12 @@
+{
+	"name": "ErrorExecutionpipeline",
+	"properties": {
+		"globalParameters": {
+			"gp1": {
+				"type": "string",
+				"value": "checking parameters"
+			}
+		}
+	},
+	"location": "westeurope"
+}
